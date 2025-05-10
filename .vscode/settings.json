@@ -1,5 +1,10 @@
 {
 	"files.associations": {
 		"wrangler.json": "jsonc"
+	},
+	"workbench.colorCustomizations": {
+		"activityBar.background": "#302F0E",
+		"titleBar.activeBackground": "#434114",
+		"titleBar.activeForeground": "#FBFAF0"
 	}
 }
