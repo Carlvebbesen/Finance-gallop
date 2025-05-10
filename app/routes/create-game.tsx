@@ -8,7 +8,7 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
-} from "~/components/ui/card";
+} from "/components/ui/card";
 import GameSettingsDialog from "~/components/game-settings-dialog";
 import { Button } from "~/components/ui/button";
 import { Input } from "~/components/ui/input";
